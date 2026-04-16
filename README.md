@@ -25,5 +25,6 @@ Ce projet présente un **Agent IA conversationnel** intelligent conçu pour auto
 ---
 
 ## 🖼️ Aperçu du Workflow
-<img width="2084" height="948" alt="Capture d’écran 2026-04-16 à 22 37 33" src="https://github.com/user-attachments/assets/ad6da8d9-5663-412b-b611-2d0215c5dd22" />
+<img width="1346" height="668" alt="n8n" src="https://github.com/user-attachments/assets/f4aa3317-9011-4733-a754-02278067802b" />
+
 
