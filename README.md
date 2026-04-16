@@ -18,9 +18,8 @@ Ce projet présente un **Agent IA conversationnel** intelligent conçu pour auto
 
 ## 📦 Installation & Utilisation
 1. **n8n** : Importez le fichier `n8n_workflow.json` dans votre instance n8n.
-2. **Typebot** : Importez le fichier `typebot_flow.json` sur l'interface Typebot.
-3. **Configuration** : Ajoutez votre clé API Groq dans les paramètres du nœud AI sur n8n.
-4. **Webhook** : Copiez l'URL du Webhook n8n et collez-la dans le bloc Webhook de Typebot.
+2. **Configuration** : Ajoutez votre clé API Groq dans les paramètres du nœud AI sur n8n.
+3. **Webhook** : Copiez l'URL du Webhook n8n et collez-la dans le bloc Webhook de Typebot.
 
 ---
 
